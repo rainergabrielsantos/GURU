@@ -12,3 +12,14 @@ The A.I. substitutes the role of a data sales analyst creating reports, suggesti
 If the A.I. notices the sales of a particular product A are very high; while another product B is struggling, it will recommend possible changes and alternatives. 
 
 Project Build Outline:
+Platform: We are planning to implement the project as a web application using React for the frontend and Django for the backend
+
+IDE: Our team will work in VSCode, its extensions, collaboration tools, and cross-platform support make it a strong candidate for team-based development.
+
+Backend: We have looked into PostgreSQL as our primary database option since it offers the reliability and structure needed for transactional and inventory data while supporting scalability for larger datasets.
+
+Libraries: For data visualization and A.I., we are considering Chart.js to create graphical reports and scikit-learn for implementing analytical models. 
+
+APIs: Potential transactional integrations such as the Stripe API for payment processing and a barcode/QR scanning API for inventory management.
+
+Package Manager: We anticipate using npm for managing frontend dependencies and pip for Python libraries on the backend.
