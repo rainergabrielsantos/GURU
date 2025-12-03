@@ -1,0 +1,52 @@
+/* ---- Global Dark Theme ---- */
+.stApp {
+    background-color: #001214 !important;
+    color: #f5f7fa !important;
+    font-family: "Inter", sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #f5f7fa !important;
+    font-weight: 600 !important;
+}
+
+/* ---- Inputs ---- */
+.stSelectbox, .stDateInput, .stTextInput, .stNumberInput {
+    background-color: #1b1c1f !important;
+    border-radius: 8px !important;
+}
+
+/* ---- Buttons ---- */
+.stButton>button {
+    background-color: #16a34a !important;
+    color: #fff !important;
+    border-radius: 8px !important;
+    padding: 8px 18px !important;
+    font-weight: 600 !important;
+    transition: 0.2s ease;
+}
+
+.stButton>button:hover {
+    background-color: #22c55e !important;
+    transform: translateY(-2px);
+}
+
+/* ---- Cards ---- */
+.report-card {
+    background: #141518;
+    padding: 22px 26px;
+    border-radius: 14px;
+    border: 1px solid #1f2024;
+    box-shadow: 0 0 18px rgba(0,0,0,0.55);
+    transition: 0.25s ease;
+    color: #f5f7fa;
+}
+.report-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0 24px rgba(0,0,0,0.75);
+}
+
+.card-desc {
+    color: #d0d2d8 !important;
+}
+
