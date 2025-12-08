@@ -1,0 +1,23 @@
+# Python / Streamlit
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit / config
+.streamlit/secrets.toml
+
+# Local environment variables
+.env
